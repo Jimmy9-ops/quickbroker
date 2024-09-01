@@ -5385,6 +5385,7 @@ path_provider_windows
 pigeon
 platform
 plugin_platform_interface
+pointer_interceptor
 shared_preferences
 shared_preferences_android
 shared_preferences_foundation
