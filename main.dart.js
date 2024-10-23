@@ -156953,7 +156953,7 @@ A.bl(a)
 q=3
 k=A.eA("https://www.kwtsms.com/API/send/",0,null)
 j=t.N
-i=A.av(["Content-Type","application/json"],j,j)
+i=A.av(["Content-Type","application/x-www-form-urlencoded","Accept","application/json"],j,j)
 s=6
 return A.m(A.vs(k,B.aL.kh(A.av(["username","scheduley","password","M7Fa-uVS@@","sender","Quick Broker Application","mobile",a,"lang","3","message",u.d+A.f(g.gh(0))],j,j),null),i),$async$nJ)
 case 6:n=c
