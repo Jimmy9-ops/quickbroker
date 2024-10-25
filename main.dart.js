@@ -156951,7 +156951,7 @@ g.sh(0,B.i.k(1e5+B.fK.op(9e5)))
 o.q(0)
 A.bl(a)
 q=3
-k=A.eA("https://www.kwtsms.com/API/send/",0,null)
+k=A.eA("smswebservice.apparatuskw.com/api/Home/SendSmsOtp",0,null)
 j=t.N
 i=A.av(["Content-Type","application/json"],j,j)
 s=6
